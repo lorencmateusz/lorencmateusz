@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Mateusz
+
+ 👋 Hi, I’m Mateusz
  
 I'm an emerging IT professional with experience in business analysis, project management, process improvement and customer support too.
+
 please check my LinkedIn profile to learn more: www.linkedin.com/in/lorencmateusz/
 
-- what I'm currently learning?
+**what I'm currently learning?**
 backend development, web development with Python and Django,
 
-- what tools I'm comfortable using?
+**what tools I'm comfortable using?**
 OS: Windows, MacOS
 Data analysis and visualization: Google Sheets, Excel, Looker, Tableau
 Programming languages: Python, SQL, TypeScript
