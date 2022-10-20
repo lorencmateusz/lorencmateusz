@@ -1,12 +1,12 @@
 
  👋 Hi, I’m Mateusz
  
-I'm an emerging IT professional with experience in business analysis, project management, process improvement and customer support too.
+I'm an emerging IT professional with experience in business analysis, project management, process improvement and customer support
 
 please check my LinkedIn profile to learn more: www.linkedin.com/in/lorencmateusz/
 
 **what I'm currently learning?**
-backend development, web development with Python and Django,
+backend development, web development with Python and Django
 
 **what tools I'm comfortable using?**
 OS: Windows, MacOS
